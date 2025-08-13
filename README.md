@@ -2,6 +2,7 @@
 GitHub practice 
 
 Actividad de Git y GitHub
+
 	1.	Hacer un fork del repositorio original en su cuenta de GitHub.
  
 	2.	Clonar su fork en su máquina local.
